@@ -1,0 +1,11 @@
+Joe got 100
+Doe got 95
+John got 95
+Jane got 83
+Rob got 95
+Bob got 92
+Mary got 83
+Cone got 96
+Mark got 87
+John got 84
+Average of student's grades 91.0
